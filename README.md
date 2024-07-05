@@ -52,7 +52,7 @@ Ready to dive into the world of crypto tracking? Follow these simple steps to ge
 
 
 
-1. Clone the Repository: https://github.com/PerksofbeingVaibhav/major-project.git
+1. Clone the Repository: https://github.com/sachinmahajan817/CryptoTracker_major-project
 
 2. Install Dependencies:  Run npm install or yarn install in the project directory.
 
